@@ -1,1 +1,2 @@
 Meu primeiro repositório Git
+A filosofia do Linux é 'Ria do perigo'. Ôpa. Errado. 'Faça você mesmo'. É, é essa. --Linus Torvalds
